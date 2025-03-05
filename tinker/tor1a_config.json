@@ -1,0 +1,14 @@
+{
+  "gene": "TOR1A",
+  "target_region": "ATGACGTACGT...TAA",
+  "mutation": {
+    "type": "deletion",
+    "deleted_sequence": "GAG",
+    "position": 1234,
+    "correct_nucleotide": "C"
+  },
+  "prime_editing": {
+    "pbs_length": 13,
+    "rtt_length": 16
+  }
+}
