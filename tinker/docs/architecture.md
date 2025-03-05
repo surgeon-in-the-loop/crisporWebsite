@@ -1,0 +1,3 @@
+Ethically Governed Precision Gene Therapy: Architecture Overview
+
+This manuscript presents a platform for precision gene therapy that integrates artificial intelligence (AI) with CRISPR-based prime editing to correct the TOR1A mutation in hereditary dystonia. The system architecture is modular, consisting of a configuration file (tor1a_config.json) that specifies target gene parameters, a main script (map_pegRNA.py) that orchestrates the process, and a package (crispor/) containing modules for guide RNA design, scoring, and utility functions. Comprehensive testing is conducted via a tests/ suite. Ethical governance and regulatory compliance are embedded throughout the project, with detailed documentation available in this directory.
